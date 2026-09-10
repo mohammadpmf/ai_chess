@@ -10,8 +10,6 @@
 
 <div dir="ltr">
 
-## 🇬🇧 English
-
 ### 📖 Overview
 
 **Chess — Python Chess Game** is a fully playable chess application written
