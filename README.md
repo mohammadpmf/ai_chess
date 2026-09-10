@@ -102,7 +102,7 @@ The chess engine (`chess_engine.py`) and the AI (`chess_ai.py`) have
 
 ```bash
 git clone https://github.com/mohammadpmf/ai_chess.git
-cd AI_Chess_projects
+cd ai_chess/4_professional_chess
 python -m venv venv
 # Windows:
 venv\Scripts\activate
@@ -306,6 +306,11 @@ The final codebase reflects the developer's understanding, not a copy-paste of g
 ---
 
 ### 📸 Screenshots
+<img width="1180" height="829" alt="pyside" src="https://github.com/user-attachments/assets/e56a23d5-e137-4d11-b2f0-080bbe614b72" />
+<img width="1179" height="827" alt="pyside2" src="https://github.com/user-attachments/assets/7a32a05e-2aeb-45a6-9b38-39666eb8e58b" />
+<img width="922" height="688" alt="deepseek_tkinter" src="https://github.com/user-attachments/assets/731347a5-a9de-4a5c-98ec-365f89e355e4" />
+<img width="1047" height="801" alt="chatgpt_custom_tkinter" src="https://github.com/user-attachments/assets/37c9f6a7-a731-4164-a5ba-ce64998bd0fc" />
+<img width="1085" height="819" alt="deepseek_pygame" src="https://github.com/user-attachments/assets/4f4854ad-f90e-4c82-ab05-a0af7a46d0d8" />
 
 
 ---
@@ -313,5 +318,5 @@ The final codebase reflects the developer's understanding, not a copy-paste of g
 
 * **Developer** — designed, implemented, tested, and documented by Mohammad Pourmohammadi Fallah.
 * **AI assistance** — ChatGPT and DeepSeek as coding assistants.
-* **Course** — built as a practical exercise for the Artificial Intelligence course taught by **Mr. Mohammad Hadi Haji Hosseini** on the **CodingYar** platform.
+* This project was developed as a practical exercise for the **Artificial Intelligence course** taught by **Mr. Mohammad Hadi Haji Hosseini** on the [**CodingYar**](https://codingyar.com) platform.
 * **PySide6 / Qt** — the GUI framework used for the presentation layer.
