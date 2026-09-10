@@ -283,7 +283,7 @@ This project was developed with the help of **free AI-assisted tools**. No paid 
 
 🎓 **Educational Purpose**
 
-This project was developed as a practical exercise for the **Artificial Intelligence course** taught by **Mr. Mohammad Hadi Haji Hosseini** on the **CodingYar** platform.
+This project was developed as a practical exercise for the **Artificial Intelligence course** taught by **Mr. Mohammad Hadi Haji Hosseini** on the [**CodingYar**](https://codingyar.com) platform.
 
 ---
 🧠 **Learning Through AI**
